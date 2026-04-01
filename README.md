@@ -110,7 +110,12 @@ In many regions, responsibility for ethical AI still sits with organizations rat
 
 # 🧰 Tools & Technologies
 **Power BI** – Dashboard development & visualization
+
+
 **Dataset Source:** Kaggle
+
+
+
 Data modeling, aggregation, and KPI-driven storytelling
 
 # 📈 Key Insights (What Matters)
